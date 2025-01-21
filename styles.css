@@ -2,8 +2,9 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	align-items:center;
+	align-items:flex-start;
 	justify-content:center;
-	flex-wrap:column-reverse;
+	justify-content:spacearound;
+	flex-wrap:wrap;
 	
 }
